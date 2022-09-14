@@ -19,7 +19,7 @@ function App() {
         >
           Learn React in your favorite browser!
         </a>
-        <Paul greeting='Good Night'/>
+        <Paul greeting='Good Night, sleep tight, sweet dreams'/>
       </header>
     </div>
   );
