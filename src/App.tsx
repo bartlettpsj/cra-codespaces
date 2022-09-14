@@ -17,9 +17,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React in your favorite browser!
+          Learn React.JS 18.0 in your favorite browser
         </a>
-        <Paul greeting='Good Night, sleep tight, sweet dreams'/>
+        <Paul greeting='Good Night, sleep tight, sweet dreams!'/>
       </header>
     </div>
   );
