@@ -17,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React.JS 18.0 in your favorite browser
+          Learn React.JS 18.5 in your favorite browser dynamically
         </a>
         <Paul greeting='Good Night, sleep tight, sweet dreams!'/>
       </header>
